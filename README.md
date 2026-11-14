@@ -68,5 +68,3 @@ The internship project uses a sales dataset containing 1,000 records. The work p
 **Prepared by:** Yamuna Kommoji  
 **Internship:** Data Analytics – ApexPlanet Software Pvt. Ltd.  
 **GitHub:** [jyotsnakommoju3-alt](https://github.com/jyotsnakommoju3-alt)
-
-*The dedicated Task 1–4 repositories currently contain task landing-page READMEs that link to the existing deliverables in this master repository. The original files have not yet been duplicated into those repositories.*
