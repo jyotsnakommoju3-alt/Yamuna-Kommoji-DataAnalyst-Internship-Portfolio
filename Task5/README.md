@@ -38,19 +38,6 @@ The dedicated repositories currently provide task landing pages. The original de
 
 This internship provided practice with an end-to-end data analytics workflow: preparing data, investigating quality issues, exploring business performance, building a dashboard, using statistical methods, and communicating findings. It also reinforced the importance of documenting assumptions and interpreting results in context.
 
-## Final review checklist
-
-- [ ] Confirm the Task 4 presentation is the final refined version.
-- [ ] Replace any illustrative visual in the presentation with a screenshot of the actual dashboard, if needed.
-- [ ] Check spelling, dates, slide titles, and file names.
-- [ ] Test the dashboard HTML locally in a browser.
-- [ ] Record the 3–5 minute portfolio walkthrough.
-- [ ] Publish the LinkedIn post with the master portfolio link.
-- [ ] Optionally enable GitHub Pages if a website is desired.
-
-## Supporting materials
-- [LinkedIn post draft](./LinkedIn_Post.md)
-- [Portfolio walkthrough video script](./Portfolio_Video_Script.md)
 
 **Prepared by:** Yamuna Kommoji  
 **Organization:** ApexPlanet Software Pvt. Ltd.
